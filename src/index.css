@@ -1,0 +1,32 @@
+.imageClass{
+  display: inline;
+}
+
+.imageClass img{
+  margin: 10px;
+  border: 1px solid;
+  height: 240px;
+  width: 240px;
+  border-radius: 15px;
+  background-color: currentcolor;
+}
+
+.pagination{
+  margin: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.pagination button {
+  margin: 10px;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.pagination span {
+  margin: 15px;
+  cursor: pointer;
+  border: 1px solid;
+  padding: 15px;
+}
+
